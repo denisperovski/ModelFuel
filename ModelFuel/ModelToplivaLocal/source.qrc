@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/DB">
+        <file>databaseFuel.db3</file>
+        <file>databasePPA.db3</file>
+    </qresource>
+</RCC>
