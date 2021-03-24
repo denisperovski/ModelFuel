@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>metka.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>clickinmain.png</file>
+        <file>clickoutmain.png</file>
+        <file>inmain.png</file>
+        <file>outmain.png</file>
+        <file>off.png</file>
+        <file>on.png</file>
+    </qresource>
+</RCC>
